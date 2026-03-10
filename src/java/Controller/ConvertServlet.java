@@ -29,7 +29,7 @@ import java.util.concurrent.CompletableFuture;
 @MultipartConfig
 public class ConvertServlet extends HttpServlet {
 
-    private static final String API_KEY = "n5RQPGiyeqfFZ0T3RkKStZjad3wXG6he";
+    private static final String API_KEY = "ObmahfkGldwx98BLbxjHHpXHPk6gjjbB";
     private static final String UPLOAD_DIR = "uploads";
     private static final String CONVERTED_DIR = "converted_files";
 
